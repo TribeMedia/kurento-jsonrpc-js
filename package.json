@@ -1,5 +1,5 @@
 {
-  "name": "kurento-jsonrpc",
+  "name": "tribemedia-kurento-jsonrpc",
   "version": "5.0.5-dev",
   "description": "RPC library for browser and Node.js",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "Kurento/kurento-jsonrpc-js"
+    "url": "TribeMedia/kurento-jsonrpc-js"
   },
   "keywords": [
     "RPC",
